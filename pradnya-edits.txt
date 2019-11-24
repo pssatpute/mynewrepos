@@ -1,4 +1,0 @@
-Hi Pradnya,
-Welcome to Git Terminal
-
-Thanks
